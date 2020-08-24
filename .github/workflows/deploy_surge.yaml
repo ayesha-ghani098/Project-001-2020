@@ -1,9 +1,7 @@
 ---
 name: Deploy Website with Surge
 
-on:
-push:
-branches:
+on:push:branches:
 - master
   
 jobs:
